@@ -1,7 +1,7 @@
 #! /bin/sh
 
 #initialize variable
-reverse=""
+reverse=`echo $sequence | rev | tr 'ATGC' 'TACG'
 
 #read in data
 name=`grep ">" $1`
@@ -15,10 +15,10 @@ len=${#sequence}
 echo "Length: $len"
 
 #loop through sequence in reverse
-for (( i=$len; i>=0; i-- ))
-do
-    reverse="$reverse${sequence:$i:1}"
-done
+#for (( i=$len; i>=0; i-- ))
+#do
+#    reverse="$reverse${sequence:$i:1}"
+#done
 
 echo "$sequence
 $reverse
