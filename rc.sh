@@ -1,5 +1,9 @@
 #! /bin/sh
 
+# if...else statement
+if [ $# -lt 1 ] || [ $# -gt 1 ]
+else
+
 #initialize variable
 reverse=`echo $sequence | rev | tr 'ATGC' 'TACG'
 
