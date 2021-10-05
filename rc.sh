@@ -3,6 +3,7 @@
 # if...else statement
 if [ $# -lt 1 ] || [ $# -gt 1 ]
 else
+fi
 
 #initialize variable
 reverse=`echo $sequence | rev | tr 'ATGC' 'TACG'
