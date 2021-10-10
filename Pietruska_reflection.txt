@@ -1,0 +1,15 @@
+Reflect on how you currently manage your documents and code, particularly content associated with publishable work. Would it stand up to a reproducibility test? How do you think non-reproducibile research affects computational biology and bioinformatics? What about in your specific field of study
+
+Documents:
+No managing system, no version control system
+It works fine whith a consequent and accurate folder/file system
+
+Code:
+No git.
+Sometimes hard to keep track. Every code is documented by a very detailed Rmarkdown document. I prefer Rmarkdown over gitmarkdown because I have many more options for layout - like colors.
+
+Reproducibility:
+Yes. I am not producing any new code. So I am the one reproducing code from others for my own work.
+
+Non-reproducible research and affecting my own work:
+I tried to do a meta-analysis on microbiome data. Only 5% of the papers relevant to my study  also published the raw data. I got only very few response to my emails asking for the raw data. Therefore, these authors will not be cited in my study and wiil not have an impact on my reseach. 
