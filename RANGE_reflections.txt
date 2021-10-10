@@ -1,0 +1,9 @@
++Reflect on how you currently manage your documents and code, particularly content associated with publishable 
+work. Would it stand up to a reproducibility test? How do you think non-reproducibile research affects 
+computational biology and bioinformatics? What about in your specific field of study
+
+I currently have no experience with coding or managing "big data", but I usually do not see any way to access 
+data or code on the papers I read. 
+The absence of those informations seems like it would make reproducibility 
+difficult or impossible in any fields.
+The absence of reproducibility makes science very messy, feeling like everybody does everything on their side without any concensus, which would slow progress and lower the quality of the research.
